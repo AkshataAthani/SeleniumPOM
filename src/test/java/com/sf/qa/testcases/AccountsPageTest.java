@@ -14,7 +14,7 @@ import com.sf.qa.pages.LoginPage;
 import com.sf.qa.pages.NewAccountPage;
 
 public class AccountsPageTest extends TestBase{
-	
+	//test
 	LoginPage loginPage;
 	HomePage homePage;
 	AccountsPage accountsPage;
