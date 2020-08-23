@@ -49,7 +49,7 @@ public class TestBase extends CommonUtil{
 	{
 		String drivername = prop.getProperty("browser");
 		if(drivername.equalsIgnoreCase("chrome")) {
-			System.setProperty("webdriver.chrome.driver","C:\\Users\\athan\\Documents\\Selenium_learning\\Drivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver","C:\\Users\\athan\\eclipse-workspace\\DemoPOMFramework\\Drivers\\chromedriver.exe");
 			options=new ChromeOptions();
 			options.addArguments("--disable-notifications");
 			driver=new ChromeDriver(options);

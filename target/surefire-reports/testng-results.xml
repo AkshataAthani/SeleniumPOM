@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="50308" started-at="2020-08-23T18:20:20 EDT" finished-at="2020-08-23T18:21:11 EDT">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="50308" started-at="2020-08-23T18:20:20 EDT" finished-at="2020-08-23T18:21:11 EDT">
+      <class name="com.sf.qa.testcases.AccountsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sf.qa.testcases.AccountsPageTest@6f7fd0e6]" name="setup" is-config="true" duration-ms="13189" started-at="2020-08-23T18:20:55 EDT" finished-at="2020-08-23T18:21:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getTestReport()[pri:0, instance:com.sf.qa.testcases.AccountsPageTest@6f7fd0e6]" name="getTestReport" is-config="true" duration-ms="0" started-at="2020-08-23T18:20:55 EDT" finished-at="2020-08-23T18:20:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestReport -->
+        <test-method status="PASS" signature="clickOnNewAccount()[pri:0, instance:com.sf.qa.testcases.AccountsPageTest@6f7fd0e6]" name="clickOnNewAccount" duration-ms="1626" started-at="2020-08-23T18:21:08 EDT" finished-at="2020-08-23T18:21:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNewAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sf.qa.testcases.AccountsPageTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="998" started-at="2020-08-23T18:21:10 EDT" finished-at="2020-08-23T18:21:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endTestReport()[pri:0, instance:com.sf.qa.testcases.AccountsPageTest@6f7fd0e6]" name="endTestReport" is-config="true" duration-ms="1" started-at="2020-08-23T18:21:11 EDT" finished-at="2020-08-23T18:21:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestReport -->
+      </class> <!-- com.sf.qa.testcases.AccountsPageTest -->
+      <class name="com.sf.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="getTestReport()[pri:0, instance:com.sf.qa.testcases.HomePageTest@27efef64]" name="getTestReport" is-config="true" duration-ms="0" started-at="2020-08-23T18:20:41 EDT" finished-at="2020-08-23T18:20:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sf.qa.testcases.HomePageTest@27efef64]" name="setup" is-config="true" duration-ms="8204" started-at="2020-08-23T18:20:41 EDT" finished-at="2020-08-23T18:20:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnAccounts()[pri:1, instance:com.sf.qa.testcases.HomePageTest@27efef64]" name="clickOnAccounts" duration-ms="5243" started-at="2020-08-23T18:20:49 EDT" finished-at="2020-08-23T18:20:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAccounts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sf.qa.testcases.HomePageTest@27efef64]" name="tearDown" is-config="true" duration-ms="698" started-at="2020-08-23T18:20:54 EDT" finished-at="2020-08-23T18:20:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endTestReport()[pri:0, instance:com.sf.qa.testcases.HomePageTest@27efef64]" name="endTestReport" is-config="true" duration-ms="1" started-at="2020-08-23T18:20:55 EDT" finished-at="2020-08-23T18:20:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestReport -->
+      </class> <!-- com.sf.qa.testcases.HomePageTest -->
+      <class name="com.sf.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="getReport()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@59f99ea]" name="getReport" is-config="true" duration-ms="207" started-at="2020-08-23T18:20:20 EDT" finished-at="2020-08-23T18:20:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="getTestReport()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@59f99ea]" name="getTestReport" is-config="true" duration-ms="4" started-at="2020-08-23T18:20:20 EDT" finished-at="2020-08-23T18:20:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@59f99ea]" name="setup" is-config="true" duration-ms="12560" started-at="2020-08-23T18:20:20 EDT" finished-at="2020-08-23T18:20:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginToSF()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@59f99ea]" name="loginToSF" duration-ms="7056" started-at="2020-08-23T18:20:33 EDT" finished-at="2020-08-23T18:20:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSF -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@59f99ea]" name="tearDown" is-config="true" duration-ms="684" started-at="2020-08-23T18:20:40 EDT" finished-at="2020-08-23T18:20:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endTestReport()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@59f99ea]" name="endTestReport" is-config="true" duration-ms="1" started-at="2020-08-23T18:20:41 EDT" finished-at="2020-08-23T18:20:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestReport -->
+        <test-method status="PASS" signature="flushRepost()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@59f99ea]" name="flushRepost" is-config="true" duration-ms="32" started-at="2020-08-23T18:21:11 EDT" finished-at="2020-08-23T18:21:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushRepost -->
+      </class> <!-- com.sf.qa.testcases.LoginPageTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
