@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14633" started-at="2020-08-20T17:07:10 EDT" finished-at="2020-08-20T17:07:24 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14633" started-at="2020-08-20T17:07:10 EDT" finished-at="2020-08-20T17:07:24 EDT">
+      <class name="com.sf.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="getReport()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@1d29cf23]" name="getReport" is-config="true" duration-ms="187" started-at="2020-08-20T17:07:10 EDT" finished-at="2020-08-20T17:07:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="getTestReport()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@1d29cf23]" name="getTestReport" is-config="true" duration-ms="3" started-at="2020-08-20T17:07:10 EDT" finished-at="2020-08-20T17:07:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@1d29cf23]" name="setup" is-config="true" duration-ms="7166" started-at="2020-08-20T17:07:10 EDT" finished-at="2020-08-20T17:07:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginToSF()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@1d29cf23]" name="loginToSF" duration-ms="6469" started-at="2020-08-20T17:07:17 EDT" finished-at="2020-08-20T17:07:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSF -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@1d29cf23]" name="tearDown" is-config="true" duration-ms="952" started-at="2020-08-20T17:07:23 EDT" finished-at="2020-08-20T17:07:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endTestReport()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@1d29cf23]" name="endTestReport" is-config="true" duration-ms="2" started-at="2020-08-20T17:07:24 EDT" finished-at="2020-08-20T17:07:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestReport -->
+        <test-method status="PASS" signature="flushRepost()[pri:0, instance:com.sf.qa.testcases.LoginPageTest@1d29cf23]" name="flushRepost" is-config="true" duration-ms="581" started-at="2020-08-20T17:07:25 EDT" finished-at="2020-08-20T17:07:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushRepost -->
+      </class> <!-- com.sf.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
